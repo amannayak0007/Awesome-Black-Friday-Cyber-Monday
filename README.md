@@ -293,7 +293,7 @@ Total deals: 420
 | 💰 | [EagleFiler](https://c-command.com/eaglfiler/) | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | 25% off |
 | 🤑 | [Trickster](https://www.apparentsoft.com/trickster) | Recently used and modified files at your fingertips | 50% off until Nov 28|
 | 🤑 | [FunKey - Mechanical Keyboard App](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677) | enhances your typing with enjoyable sounds of mechanical keyboards and mouse clicks. | 50% off lifetime, available until Nov 27 |
-
+| 💰 | [FunKey－Mechanical Keyboard App]([https://zenmode.app](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677)) | Funkey is a Mac menu bar app that enhances your typing with enjoyable sounds of mechanical keyboards and mouse clicks, making your work more productive, whether it's coding, designing, or anything else. | 50% OFF auto-discount |
 
 [⬆️ Go to Top](#table-of-contents)
 
